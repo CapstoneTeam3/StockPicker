@@ -1,6 +1,9 @@
 # Stock Price Predictor
 Team 3 (Capstone project)*
 
+### CURRENT UPDATE:
+Using Alphabet data from jan 2005 - june 2017, will be replaced with the data from the scraping of general market information
+
 ## Project Overview
 
 
@@ -22,7 +25,7 @@ I have used Keras to build a LSTM to predict stock prices using historical closi
   * Built a model to accurately predict the future closing price of a given stock, using Long Short Term Memory Neural net algorithm. 
   * Achieved Mean Squared Error rating of just 0.00093063.
 
-Things i have learnt by completing this project:
+Things learnt by completing this project:
 * How to apply deep learning techniques: Long Short Term Memory Neural Network algorithms.
 * How to use keras-tensorflow library.
 * How to collect and preprocess given data.
