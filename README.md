@@ -4,6 +4,8 @@ Team 3 (Capstone project)*
 ### CURRENT UPDATE:
 Using Alphabet data from jan 2005 - june 2017, will be replaced with the data from the scraping of general market information
 
+We hope to use a variation of this code to accurately determine value in new age startups that may not have a lot of information on the internet.
+
 ## Project Overview
 
 
