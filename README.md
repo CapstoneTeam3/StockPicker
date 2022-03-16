@@ -32,7 +32,7 @@ Things learnt by completing this project:
 * How to use keras-tensorflow library.
 * How to collect and preprocess given data.
 * How to analyze model's performance.
-* How to optimise Long Short Term Memory Neural Network algortithm, to ensure increase in postive results.
+* How to optimize Long Short Term Memory Neural Network algortithm, to ensure increase in postive results.
 
 ## Software and Libraries
 This project uses the following software and Python libraries:
